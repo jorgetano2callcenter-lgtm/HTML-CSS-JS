@@ -25,11 +25,9 @@ body{
 }
 .link_emperadores:hover{
 background-color: rgb(168, 168, 241);
-text-decoration: underline;
 }
 .link_emperadores:active{
     background-color: rgb(242, 59, 59);
-    text-decoration: underline;
 }
 
 .img_one_piece{
